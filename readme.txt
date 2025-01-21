@@ -5,3 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 Disable Fast forward mode.
 Dev Mode.
+增加了一些代码，但未完成。
+完成了新功能开发。
